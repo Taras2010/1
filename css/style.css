@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+li {
+    list-style: none;
+}
+:root {
+	--title-color: #212121;
+	--text-color: #757575; 
+	--acent-color:#2196F3;
+}
+
+html {
+
+    font-family: Roboto;
+    color: var(--text-color) ;
+    font-style: normal ;
+}
+
+.logo {
+
+    position: absolute;
+    width: 149px;
+    height: 28px;
+    left: 168px;
+    top: 16px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 1,16;
+    letter-spacing: 0.03em;
+    
+    color: var(--title-color);
+
+
+}
+
+.accent  {
+    
+    color: var(--acent-color);
+
+}
