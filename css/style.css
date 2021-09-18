@@ -52,3 +52,76 @@ html {
     color: var(--acent-color);
 
 }
+
+.main_nav{
+    display: flex;
+    height: 60px;
+    justify-content: center;
+    padding: 0 15px;
+    outline: 1px solid aqua;
+    align-items: center;
+ 
+ }
+ .main_nav__contact{
+ 
+ display: flex;
+ height: 100%;
+ 
+ 
+ }
+ 
+ .main_nav__item{
+ 
+     outline: 1px solid tomato;
+     width: 30px;
+ }
+ 
+ .main_nav__item:not(:last-child){
+ 
+ margin-right: 10px;
+ 
+ 
+ }
+ 
+ .nav_svg {
+ 
+ fill: var(--acent-color);
+ transition: 300ms cubic-bezier(.84,.39,.31,1.24)
+ 
+ }
+ 
+ .main_nav__item:hover .nav_svg,
+ .main_nav__item:focus .nav_svg{
+ 
+ fill: var(--acent-color);
+ 
+ 
+ 
+ }
+ .hero {
+     display: block;
+    height: 400px;
+    outline: 1px solid black;
+    padding-top: 158px;
+    background-image:linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), url("../icon/headerimg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+
+.texthero {
+    display: block;
+    margin: 0 auto;
+    max-width: 360px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: tomato;
+    /* color: #FFFFFF; */
+}
+
