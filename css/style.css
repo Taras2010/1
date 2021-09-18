@@ -74,6 +74,7 @@ html {
  
      outline: 1px solid tomato;
      width: 30px;
+     
  }
  
  .main_nav__item:not(:last-child){
@@ -123,5 +124,49 @@ html {
     text-transform: uppercase;
     color: tomato;
     /* color: #FFFFFF; */
+}
+
+.main-content__title{
+    position: relative;
+    width: 370px;
+    height: 30px;
+    margin: 0 auto;
+	transform: translateY(33px);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.5px;
+    /* identical to box height, or 150% */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+
+}  
+
+.main-content__title::after{
+    position: absolute;
+   content: "";
+   width: 100px;
+	height: 2px;
+	background-color: var(--acent-color);
+	border-radius: 2px;
+    top: 20px;
+    left: 135px;
+
+}
+
+
+.forpadding{
+
+padding-top: 180px ;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+align-self: center;
+
+
 }
 
