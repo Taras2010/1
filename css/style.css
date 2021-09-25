@@ -166,7 +166,395 @@ flex-wrap: wrap;
 justify-content: center;
 align-items: center;
 align-self: center;
+}
+
+.terra{
+padding-top: 100px;
+margin-left: 525px;
+}
+.shadow{
+    width: 450px;
+    height: 404px;
+    left: 17px;
+    top: 552px;
+    
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+
+}
+.img1{
+
+width: 450px;
+height: 294px;
+left: 17px;
+top: 552px;
+
+background: url("https://3ost.ru/uploads/posts/2020-11/1604952832_terraria-soundtrack-volume-4.jpg")
+}
+
+.title1 {
+
+    width: 402px;
+    height: 70px;
+    left: 41px;
+    top: 866px;
 
 
 }
 
+.Terraria{
+
+color: #2196F3;
+
+}
+
+.text2{
+
+color: black;
+
+}
+
+.mine{
+    padding-top: 100px;
+    margin-left: 525px;
+    }
+    .shadow1{
+        width: 450px;
+        height: 404px;
+        left: 17px;
+        top: 552px;
+        
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+        box-sizing: border-box;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+    
+    }
+    .img2{
+    
+    width: 450px;
+    height: 294px;
+    left: 17px;
+    top: 552px;
+    
+    background: url("../icon/img.jpg")
+    }
+    
+    .title2 {
+    
+        width: 402px;
+        height: 70px;
+        left: 41px;
+        top: 866px;
+    
+    
+    }
+    
+    .Minecraft{
+    
+    color: #2196F3;
+    
+    }
+    
+    .text3{
+    
+    color: black;
+    
+    }
+
+
+    .alchimik{
+        padding-top: 100px;
+        margin-left: 525px;
+        }
+        .shadow2{
+            width: 450px;
+            height: 404px;
+            left: 17px;
+            top: 552px;
+            
+            background: #FFFFFF;
+            border: 1px solid #EEEEEE;
+            box-sizing: border-box;
+            box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+        
+        }
+        .img3{
+        
+        width: 450px;
+        height: 294px;
+        left: 17px;
+        top: 552px;
+        
+        background: url("https://pbs.twimg.com/profile_images/1349045842511097859/ZPcG3QSs.png")
+        }
+        
+        .potion{
+        
+            width: 402px;
+            height: 70px;
+            left: 41px;
+            top: 866px;
+        
+        
+        }
+        
+        .title3{
+        
+        color: #2196F3;
+        
+        }
+        
+        .text4{
+        
+        color: black;
+        
+        }
+
+
+        
+    .HOI4{
+        padding-top: 100px;
+        margin-left: 525px;
+        }
+        .shadow3{
+            width: 450px;
+            height: 404px;
+            left: 17px;
+            top: 552px;
+            
+            background: #FFFFFF;
+            border: 1px solid #EEEEEE;
+            box-sizing: border-box;
+            box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+        
+        }
+        .img4{
+        
+        width: 450px;
+        height: 294px;
+        left: 17px;
+        top: 552px;
+        
+        background: url("https://cdn.igromania.ru/mnt/articles/b/d/6/a/d/7/25610/html/img/ffaed07fa8304c49.jpg")
+        }
+        
+        .Heart{
+        
+            width: 402px;
+            height: 70px;
+            left: 41px;
+            top: 866px;
+        
+        
+        }
+        
+        .title4{
+        
+        color: #2196F3;
+        
+        }
+        
+        .text5{
+        
+        color: black;
+        
+        }
+
+        .ADOLFUS{
+            padding-top: 100px;
+            margin-left: 525px;
+            }
+            .shadow4{
+                width: 450px;
+                height: 404px;
+                left: 17px;
+                top: 552px;
+                
+                background: #FFFFFF;
+                border: 1px solid #EEEEEE;
+                box-sizing: border-box;
+                box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+            
+            }
+            .img5{
+            
+            width: 450px;
+            height: 294px;
+            left: 17px;
+            top: 552px;
+            
+            background: url("../icon/img.png")
+            }
+            
+            .AMONGUS{
+            
+                width: 402px;
+                height: 70px;
+                left: 41px;
+                top: 866px;
+            
+            
+            }
+            
+            .title5{
+            
+            color: #2196F3;
+            
+            }
+            
+            .text6{
+            
+            color: black;
+            
+            }
+        
+        
+   .forms{
+    position: relative;
+    width: 370px;
+    height: 30px;
+    margin: 0 auto;
+	transform: translateY(33px);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.5px;
+    /* identical to box height, or 150% */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+
+   } 
+
+   .forms::after{
+    position: absolute;
+    content: "";
+    width: 100px;
+     height: 2px;
+     background-color: var(--acent-color);
+     border-radius: 2px;
+     top: 20px;
+     left: 135px;
+ 
+
+   }
+
+   .label{
+  
+    color: blue;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 1.16;
+    letter-spacing: 0.01em;
+    color: #757575;
+   }
+
+.form{
+    
+    width: 400px;
+   margin: 10px auto;
+} 
+
+.input{
+    color: blue;
+    width: 370px;
+    height: 40px;
+    border: 1px solid rgba(33, 33, 33, 0.2);
+    border-radius: 4px;
+}
+.input:hover,
+.input:focus,
+.input:active{
+    outline: none;
+    background-color: blue;
+}
+
+.textarea{
+
+    width: 370px;
+    height: 120px;
+    border: 1px solid rgba(33, 33, 33, 0.2);
+    border-radius: 4px;
+    resize: none;
+}
+textarea:hover,
+textarea:focus,
+textarea:active{
+    outline: none;
+    border: 5px green;
+}
+
+.button{
+    width: 200px;
+height: 50px;
+left: 140px;
+top: 2726px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 30;
+/* identical to box height, or 187% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #000;
+
+background: #188CE8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px
+
+
+}
+
+.button:hover,
+.button:focus{
+color: white;
+background-color: blue;
+outline: none;
+}
+
+
+
+
+.address-email{
+    width: 232px;
+height: 21px;
+left: 124px;
+top: 2938px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+text-align: center;
+letter-spacing: 0.03em;
+color: white;
+margin-bottom: 15px;
+}
+
+footer{
+    background-color: indianred;
+    width: 100%;
+    height: 200px;
+    padding-top: 30px;
+}
+
+.footer1000{
+    width: 250px;
+    margin: 0 auto;
+
+}
