@@ -84,7 +84,7 @@ html {
  
  }
  
- .cool{
+ .nav_svg {
  
  fill: var(--acent-color);
  transition: 300ms cubic-bezier(.84,.39,.31,1.24)
@@ -104,7 +104,7 @@ html {
     height: 400px;
     outline: 1px solid black;
     padding-top: 158px;
-    background-image:linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), url("../icon/headerimg.png");
+    background-image:linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), url("https://itechua.com/wp-content/uploads/2019/06/Epic-Games-Store-4.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -239,7 +239,8 @@ color: black;
     left: 17px;
     top: 552px;
     
-    background: url("../icon/img.jpg")
+    background: url("https://tcf.admeen.org/category/3500/3061/400x400/minecraft.jpg")
+
     }
     
     .title2 {
@@ -386,7 +387,7 @@ color: black;
             left: 17px;
             top: 552px;
             
-            background: url("../icon/img.png")
+            background: url("https://i.pinimg.com/originals/91/83/27/918327bfa731b9f8322ae39b1cd18b40.jpg")
             }
             
             .AMONGUS{
